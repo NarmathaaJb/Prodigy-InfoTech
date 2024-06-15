@@ -5,7 +5,7 @@
 ## 1. House Price Prediction with Linear Regression
 ### Objective: Implement a linear regression model to predict house prices based on their square footage and the number of bedrooms and bathrooms.
 
-### - Techniques Used: Linear Regression
+### - Techniques Used: ##### Linear Regression
 ### - Libraries: scikit-learn, pandas, numpy
 ### - Key Features: Data preprocessing, feature selection, model training and evaluation
 

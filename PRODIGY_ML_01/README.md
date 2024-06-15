@@ -7,7 +7,7 @@ This project involves the use of K-means clustering to group customers of a reta
 The dataset contains the following columns:
 
 | Column               | Description                                                                 |
-| -------------------- |:--------------------------------------------------------------------------:| 
+| -------------------- |--------------------------------------------------------------------------| 
 | CustomerID           | An identifier for each customer.                                             |
 | Gender               | Indicates the gender of the customer (Male or Female).                       |
 | Age                  | Represents the age of the customer in years.                                 |

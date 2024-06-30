@@ -2,7 +2,7 @@
 
 House Price Prediction using Linear Regression is a fundamental project in the field of machine learning and data science. It involves building a model to predict the price of a house based on various features such as square footage, number of bedrooms, and number of bathrooms. This type of model is particularly useful for real estate agents, buyers, and sellers to estimate property values accurately.
 
-**Data Description:-**
+## Data Description:
 
 | Feature       | Description                                                                                                                                               |
 |---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
